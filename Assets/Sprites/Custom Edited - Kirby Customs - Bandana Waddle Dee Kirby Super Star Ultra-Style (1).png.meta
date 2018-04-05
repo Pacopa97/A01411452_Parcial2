@@ -1,0 +1,4473 @@
+fileFormatVersion: 2
+guid: da1e459cf715c934bacea2438d753937
+timeCreated: 1522698504
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_0
+    21300002: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_1
+    21300004: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_2
+    21300006: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_3
+    21300008: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_4
+    21300010: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_5
+    21300012: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_6
+    21300014: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_7
+    21300016: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_8
+    21300018: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_9
+    21300020: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_10
+    21300022: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_11
+    21300024: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_12
+    21300026: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_13
+    21300028: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_14
+    21300030: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_15
+    21300032: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_16
+    21300034: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_17
+    21300036: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_18
+    21300038: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_19
+    21300040: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_20
+    21300042: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_21
+    21300044: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_22
+    21300046: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_23
+    21300048: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_24
+    21300050: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_25
+    21300052: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_26
+    21300054: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_27
+    21300056: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_28
+    21300058: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_29
+    21300060: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_30
+    21300062: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_31
+    21300064: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_32
+    21300066: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_33
+    21300068: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_34
+    21300070: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_35
+    21300072: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_36
+    21300074: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_37
+    21300076: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_38
+    21300078: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_39
+    21300080: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_40
+    21300082: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_41
+    21300084: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_42
+    21300086: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_43
+    21300088: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_44
+    21300090: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_45
+    21300092: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_46
+    21300094: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_47
+    21300096: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_48
+    21300098: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_49
+    21300100: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_50
+    21300102: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_51
+    21300104: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_52
+    21300106: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_53
+    21300108: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_54
+    21300110: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_55
+    21300112: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_56
+    21300114: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_57
+    21300116: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_58
+    21300118: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_59
+    21300120: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_60
+    21300122: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_61
+    21300124: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_62
+    21300126: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_63
+    21300128: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_64
+    21300130: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_65
+    21300132: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_66
+    21300134: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_67
+    21300136: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_68
+    21300138: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_69
+    21300140: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_70
+    21300142: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_71
+    21300144: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_72
+    21300146: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_73
+    21300148: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_74
+    21300150: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_75
+    21300152: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_76
+    21300154: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_77
+    21300156: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_78
+    21300158: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_79
+    21300160: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_80
+    21300162: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_81
+    21300164: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_82
+    21300166: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_83
+    21300168: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_84
+    21300170: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_85
+    21300172: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_86
+    21300174: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_87
+    21300176: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_88
+    21300178: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_89
+    21300180: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_90
+    21300182: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_91
+    21300184: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_92
+    21300186: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_93
+    21300188: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_94
+    21300190: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_95
+    21300192: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_96
+    21300194: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_97
+    21300196: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_98
+    21300198: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_99
+    21300200: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_100
+    21300202: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_101
+    21300204: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_102
+    21300206: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_103
+    21300208: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_104
+    21300210: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_105
+    21300212: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_106
+    21300214: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_107
+    21300216: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_108
+    21300218: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_109
+    21300220: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_110
+    21300222: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_111
+    21300224: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_112
+    21300226: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_113
+    21300228: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_114
+    21300230: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_115
+    21300232: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_116
+    21300234: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_117
+    21300236: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_118
+    21300238: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_119
+    21300240: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_120
+    21300242: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_121
+    21300244: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_122
+    21300246: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_123
+    21300248: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_124
+    21300250: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_125
+    21300252: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_126
+    21300254: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_127
+    21300256: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_128
+    21300258: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_129
+    21300260: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_130
+    21300262: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_131
+    21300264: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_132
+    21300266: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_133
+    21300268: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_134
+    21300270: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_135
+    21300272: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_136
+    21300274: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_137
+    21300276: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_138
+    21300278: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_139
+    21300280: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_140
+    21300282: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_141
+    21300284: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_142
+    21300286: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_143
+    21300288: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_144
+    21300290: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_145
+    21300292: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_146
+    21300294: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_147
+    21300296: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_148
+    21300298: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_149
+    21300300: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_150
+    21300302: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_151
+    21300304: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_152
+    21300306: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_153
+    21300308: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_154
+    21300310: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_155
+    21300312: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_156
+    21300314: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_157
+    21300316: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_158
+    21300318: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_159
+    21300320: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_160
+    21300322: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_161
+    21300324: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_162
+    21300326: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_163
+    21300328: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_164
+    21300330: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_165
+    21300332: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_166
+    21300334: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_167
+    21300336: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_168
+    21300338: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_169
+    21300340: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_170
+    21300342: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_171
+    21300344: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_172
+    21300346: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_173
+    21300348: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_174
+    21300350: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_175
+    21300352: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_176
+    21300354: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_177
+    21300356: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_178
+    21300358: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_179
+    21300360: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_180
+    21300362: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_181
+    21300364: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_182
+    21300366: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_183
+    21300368: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_184
+    21300370: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_185
+    21300372: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_186
+    21300374: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_187
+    21300376: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_188
+    21300378: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_189
+    21300380: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_190
+    21300382: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_191
+    21300384: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_192
+    21300386: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_193
+    21300388: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_194
+    21300390: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_195
+    21300392: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_196
+    21300394: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_197
+    21300396: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_198
+    21300398: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_199
+    21300400: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_200
+    21300402: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_201
+    21300404: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_202
+    21300406: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_203
+    21300408: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_204
+    21300410: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_205
+    21300412: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_206
+    21300414: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_207
+    21300416: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_208
+    21300418: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_209
+    21300420: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_210
+    21300422: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_211
+    21300424: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_212
+    21300426: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_213
+    21300428: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_214
+    21300430: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_215
+    21300432: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_216
+    21300434: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_217
+    21300436: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_218
+    21300438: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_219
+    21300440: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_220
+    21300442: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_221
+    21300444: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_222
+    21300446: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_223
+    21300448: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_224
+    21300450: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_225
+    21300452: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_226
+    21300454: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_227
+    21300456: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_228
+    21300458: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_229
+    21300460: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_230
+    21300462: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_231
+    21300464: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_232
+    21300466: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_233
+    21300468: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_234
+    21300470: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_235
+    21300472: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_236
+    21300474: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_237
+    21300476: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_238
+    21300478: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_239
+    21300480: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_240
+    21300482: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_241
+    21300484: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_242
+    21300486: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_243
+    21300488: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_244
+    21300490: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_245
+    21300492: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_246
+    21300494: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_247
+    21300496: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_248
+    21300498: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_249
+    21300500: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_250
+    21300502: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_251
+    21300504: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_252
+    21300506: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_253
+    21300508: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_254
+    21300510: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_255
+    21300512: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_256
+    21300514: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star
+      Ultra-Style (1)_257
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 711
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_1
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 718
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 718
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 710
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 718
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 718
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_6
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 718
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 718
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_8
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 718
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 718
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_10
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 723
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 711
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 665
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 665
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 665
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 665
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 663
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 662
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 662
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 662
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 662
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 662
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_22
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 662
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 663
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_24
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 663
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_25
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 692
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_26
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 692
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_27
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 686
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_28
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 687
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 664
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_30
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 662
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_31
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 660
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 661
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 663
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_34
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 638
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 634
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 634
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 634
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 634
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 632
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 631
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_41
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 631
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 631
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 632
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 632
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 632
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 635
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 635
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_48
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 635
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_49
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 635
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_50
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 631
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 633
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_52
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 636
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 579
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 579
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_55
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 579
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_56
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 579
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_57
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 579
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 579
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_59
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 576
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_60
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 576
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_61
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 574
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 577
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_63
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 577
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 577
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_65
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 577
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 580
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_67
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 580
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_68
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 580
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_69
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 578
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 544
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 544
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_72
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 544
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 544
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_74
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 544
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 544
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_76
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 544
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 544
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 542
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_79
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 542
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_80
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 542
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_81
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 542
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_82
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 542
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_83
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 542
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_84
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 545
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_85
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 545
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_86
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 541
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 502
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 497
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 497
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 497
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 497
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_92
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 497
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_93
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 497
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_94
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 497
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_95
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 497
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_96
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 495
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_97
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 495
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_98
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 495
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_99
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 495
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_100
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 494
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_101
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 494
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_102
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 494
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_103
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 492
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_104
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 490
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_105
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 483
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_106
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 463
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_107
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 461
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_108
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 461
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_109
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 461
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 461
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_111
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 461
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_112
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 461
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_113
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 461
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_114
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 461
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_115
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 458
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_116
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 458
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_117
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 466
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_118
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 458
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_119
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 458
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_120
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 458
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_121
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 462
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_122
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 458
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_123
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 458
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_124
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 458
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_125
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 428
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_126
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 433
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_127
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 422
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_128
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 415
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_129
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 409
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_130
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 415
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_131
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 390
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_132
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 396
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 377
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_134
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 403
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_135
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 403
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_136
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 392
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_137
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 375
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_138
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 391
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_139
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 348
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_140
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 348
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_141
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 392
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_142
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 372
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_143
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 348
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_144
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 348
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_145
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 348
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_146
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 348
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_147
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 348
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_148
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 347
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_149
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 364
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_150
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 348
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_151
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 348
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_152
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 348
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 348
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_154
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 351
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_155
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 351
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_156
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 348
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_157
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 348
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_158
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 348
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_159
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 356
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_160
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_161
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 333
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_162
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 322
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_163
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 294
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_164
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 288
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_165
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 302
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_166
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 303
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_167
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 297
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_168
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 303
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_169
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 303
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_170
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 297
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_171
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 303
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_172
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 303
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_173
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 297
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_174
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 303
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_175
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 249
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_176
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 249
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_177
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 249
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_178
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 249
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 244
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_180
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_181
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 249
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_182
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 249
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_183
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_184
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 218
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_185
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 268
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_186
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 250
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_187
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 250
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_188
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 250
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_189
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 250
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_190
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 238
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_191
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 242
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_192
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 229
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_193
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 231
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_194
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 233
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_195
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 234
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_196
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 236
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_197
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 233
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_198
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 231
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_199
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 231
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_200
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 203
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_201
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 215
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_202
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 215
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_203
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 215
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_204
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 215
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_205
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 195
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_206
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 195
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_207
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 195
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_208
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 192
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_209
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_210
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 169
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_211
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 163
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_212
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 152
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_213
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 160
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_214
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 157
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_215
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 157
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_216
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_217
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 160
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_218
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 160
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_219
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 160
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_220
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_221
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 111
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_222
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_223
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_224
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_225
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_226
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 112
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_227
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 112
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_228
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 112
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_229
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 112
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_230
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 111
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_231
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 111
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_232
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 111
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_233
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 111
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_234
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 111
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_235
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 111
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_236
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 111
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_237
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 111
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_238
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 111
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_239
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 70
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_240
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_241
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 70
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_242
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 71
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_243
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 64
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_244
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 64
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_245
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 64
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_246
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 61
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_247
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_248
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 35
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_249
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 44
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_250
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 61
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_251
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 32
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_252
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 32
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_253
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 32
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_254
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 32
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_255
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 32
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_256
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 32
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Kirby Customs - Bandana Waddle Dee Kirby Super Star Ultra-Style
+        (1)_257
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 835
+        height: 741
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
